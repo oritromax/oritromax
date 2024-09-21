@@ -1,8 +1,8 @@
 # I am Oritro Ahmed:
-🤖 Currently researching on LLM ( Supervised Learning and Fine Tuning ) <be>
-💻 Languages: Go, PHP, Python, Javascript and some other stuff<be>
-⚙️ Tools: Docker, Podman, Ansible, Terraform, Obsidian, Notion, Slack and others<be>
-🔗 Find More: [https://iam.ioritro.com](https://iam.oritro.com)
+- 🤖 Currently researching on LLM ( Supervised Learning and Fine Tuning ) <be>
+- 💻 Languages: Go, PHP, Python, Javascript and some other stuff<be>
+- ⚙️ Tools: Docker, Podman, Ansible, Terraform, Obsidian, Notion, Slack and others<be>
+- 🔗 Find More: [https://iam.ioritro.com](https://iam.oritro.com)
 
 
 ## 🌐 Socials:
