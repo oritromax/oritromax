@@ -2,7 +2,7 @@
 - 🤖 Currently researching on LLM ( Supervised Learning and Fine Tuning ) <be>
 - 💻 Languages: Go, PHP, Python, Javascript and some other stuff<be>
 - ⚙️ Tools: Docker, Podman, Ansible, Terraform, Obsidian, Notion, Slack and others<be>
-- 🔗 Find More: [https://iam.ioritro.com](https://iam.oritro.com)
+- 🔗 Find More: [https://iam.ioritro.com](https://iam.ioritro.com)
 
 
 ## 🌐 Socials:
