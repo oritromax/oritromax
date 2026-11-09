@@ -6,3 +6,5 @@ Hi, I am Nidal Siddique Oritro. Currently working as a Senior Engineering Manage
 - Accidental Audio Engineer in Process ( Cause my room is getting a little noisy )
 
 I regularly write about my engineering challenges at my blog: [ioritro.com](https://ioritro.com)
+
+Connect with me on [LinkedIn](https://linkedin.com/in/oritromax).
